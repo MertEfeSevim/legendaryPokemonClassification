@@ -4,4 +4,4 @@ Recently, I have encountered another eccentric dataset which is Pokemon dataset 
 # Medium Publication
 Rest of the explanation can be found here;
 
-https://github.com/MertEfeSevim/legendaryPokemonClassification
+https://medium.com/@mertefesevim/gotta-catch-em-all-ml-on-pokemon-5c73b29d636
